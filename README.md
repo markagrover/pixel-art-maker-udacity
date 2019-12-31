@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pixel Art Maker Project
 
 ## Table of Contents
@@ -14,3 +15,8 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+||||||| merged common ancestors
+=======
+# pixel-art-maker-udacity
+Create a pixel art maker
+>>>>>>> fe4d2527adadc41a2b7eb4f6509412dee583a457
